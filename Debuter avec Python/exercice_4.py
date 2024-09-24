@@ -19,3 +19,4 @@ def surface(x):
 print("Le perimetre du carre d'apres le calcule est de", perimetre(x), "la long")
 print("L'air du carre d'apres le calcule est de", surface(x))
 # hello Prof, je ne veux plus de jeux video en cours
+# Promis ok
